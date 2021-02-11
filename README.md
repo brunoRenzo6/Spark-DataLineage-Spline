@@ -20,7 +20,7 @@ O projeto consiste em duas partes:
 * A Web User Interface do próprio SPLINE utiliza como base o MongoDB e pode ser verificada no site oficial para saber como subi-la.
 
 #### Spline UI com Alta Granularidade
-![Spline UI Alta Granularidade](https://github.com/brunoRenzo6/Keyrus-Spline/blob/master/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20Alta%20Granularidade.png "Spline UI Alta Granularidade")
+![Spline UI Alta Granularidade](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20Alta%20Granularidade.png "Spline UI Alta Granularidade")
 
 #### Spline UI com Média Granularidade
 ![Spline UI Média Granularidade](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20M%C3%A9dia%20Granularidade.png "Spline UI Média Granularidade")
