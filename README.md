@@ -23,10 +23,10 @@ O projeto consiste em duas partes:
 ![Spline UI Alta Granularidade](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20Alta%20Granularidade.png "Spline UI Alta Granularidade")
 
 #### Spline UI com Média Granularidade
-![Spline UI Média Granularidade](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20M%C3%A9dia%20Granularidade.png "Spline UI Média Granularidade")
+![Spline UI Média Granularidade](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20M%C3%A9dia%20Granularidade.png "Spline UI Média Granularidade")
 
 #### Spline UI com Baixa Granularidade Detalhada
-![Spline UI Baixa Granularidade Detalhada](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20Baixa%20Granularidade%20Detalhada.png "Spline UI Baixa Granularidade Detalhada")
+![Spline UI Baixa Granularidade Detalhada](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Reposit%C3%B3rio%20de%20Imagens%20Spline/Spline%20UI%20Baixa%20Granularidade%20Detalhada.png "Spline UI Baixa Granularidade Detalhada")
 
 * Já a utilização do Atlas deixa um pouco a desejar no site oficial, devido a falta de alguns exemplos e passos importantes para a implementação. [Segue uma descrição](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Persistência.md "Segue uma descrição") de como trabalhar com as diferentes alternativas de persistência e utilização do Atlas como persistência de linhagem.
 
