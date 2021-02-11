@@ -5,9 +5,7 @@ A intenção deste documento é compartilhar conhecimento e algumas soluções q
 _Desenvolvido por:_</br>
 _Bruno Nogueira Renzo https://www.linkedin.com/in/bruno-renzo-6a2595168/_</br>
 _Eduardo Viana https://www.linkedin.com/in/duviana/_</br>
-</br>
 _________________________________________________________________________________________________________________________________________________________________________________
-</br>
 
 SPLINE (de **S**park **L**ineage) é um projeto que ajuda pessoas a terem insights sobre dados processados pelo Apache Spark.
 
