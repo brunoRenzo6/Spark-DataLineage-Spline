@@ -106,7 +106,7 @@ spark-submit --driver-java-options "-Dspline.mode=BEST_EFFORT -Dspline.persisten
 Não é preciso enviar o JAR completo na hora da execução com ```spark-submit```, aliás, quando é executado o SPLINE persistindo no Atlas é aconcelhável que não seja realmente enviado, pois o JAR fica muito grande e pode causar um certo delay de execução, ocasionando possíveis erros, portanto, [veja como é possível](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Depend%C3%AAncias%20no%20Core%20do%20Spark.md "veja como é possível") __executar o SPLINE sem a necessidade de enviar o JAR completo ou algum JAR__.
 
 #### Exemplo do data lineage de um Join   
-![Spline_Atlas_Nifi](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Repositorio%20de%20Imagens%20Spline_Atlas/splineAtlas.jpg)
+![Spline_Atlas_Nifi](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Repositorio%20de%20Imagens%20Spline_Atlas/splineAtlas.jpg)
 
 ## ATLAS e NiFi (End-to-End Lineage):
 
@@ -134,7 +134,7 @@ spark-submit --driver-java-options "-Dspline.mode=BEST_EFFORT -Datlas.kafka.boot
 > Utilizado: -Dabsolute.base.path=hdfs://sandbox-hdp.hortonworks.com:8020
 
 #### AtlasUI End-to-End lineage (Local-->HDFS-->Spark-->HDFS-->HIVE)
-![Spline_Atlas_Nifi](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Repositorio%20de%20Imagens%20Spline_Atlas/endToEnd.png)
+![Spline_Atlas_Nifi](https://github.com/brunoRenzo6/Keyrus-Spline/blob/main/Repositorio%20de%20Imagens%20Spline_Atlas/endToEnd.png)
 
 
 #### Referências
