@@ -38,4 +38,4 @@ __Para esse projeto foi utilizado a Hortonworks Sandbox HDP 2.6.5 na Oracle VM V
 
 #### Downloads
 
-[Downloads](https://github.com/WilliamPorto/keyruslab-spline/tree/master/Downloads "Downloads")
+[Downloads](https://github.com/brunoRenzo6/Spark-DataLineage-Spline/tree/main/Downloads "Downloads")
