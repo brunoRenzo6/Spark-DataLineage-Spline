@@ -13,7 +13,7 @@ O projeto consiste em duas partes:
 
 ### Uma biblioteca principal que trabalha com a parte dos drivers, capturando e registrando a linhagem de dados dos jobs que estao sendo executados.
 
-* O projeto do SPLINE foi desenvolvido somente para o Spark Scala. [Segue documentação](https://github.com/WilliamPorto/keyruslab-spline/blob/master/Integração.md "Segue documentação") de como integrar o SPLINE com o <strong>PySpark</strong>.
+* O projeto do SPLINE foi desenvolvido somente para o Spark Scala. [Segue documentação](https://github.com/brunoRenzo6/Spark-DataLineage-Spline/blob/main/Integra%C3%A7%C3%A3o.md "Segue documentação") de como integrar o SPLINE com o <strong>PySpark</strong>.
 
 ### E uma Web User Interface para a visualização dos dados registrados.
 
